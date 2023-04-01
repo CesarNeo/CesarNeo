@@ -4,9 +4,6 @@ Sou um Full-Stack Developer com foco em Front-end :computer:.
 
 Procuro sempre melhorar minhas soft skills e hard skills.
 
- :rocket:  &nbsp; Estou atualmente desempregado, procurando uma oportunidade para colocar meus conhecimentos em prática em uma empresa.
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, musculação e documentários
 <div>
   <a href="https://github.com/cesarneo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesarneo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
