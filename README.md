@@ -1,6 +1,6 @@
 # Cesar Emmanuel
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Full-Stack Developer com foco em Front-end :computer:.
+Sou um Desenvolvedor Front-end :computer:.
 
 Procuro sempre melhorar minhas soft skills e hard skills.
 
